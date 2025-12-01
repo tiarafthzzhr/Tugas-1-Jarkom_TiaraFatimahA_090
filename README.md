@@ -66,5 +66,7 @@ Router R-PUSAT:
 ISR R-CABANG:
 - ip route 0.0.0.0 0.0.0.0 10.90.4.17
 
-VLSM
+#VLSM
+
 ![](VLSM.png)
+![](VLSM2.png)
