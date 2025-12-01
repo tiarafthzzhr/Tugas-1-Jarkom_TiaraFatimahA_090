@@ -66,6 +66,12 @@ Router R-PUSAT:
 ISR R-CABANG:
 - ip route 0.0.0.0 0.0.0.0 10.90.4.17
 
+# Basic Formula 
+
+- Blok IP (Subnet Size): 2 n
+- Jumlah Host Tersedia : 2 n −2
+- Kebutuhan Prefix (/n): Dicari 2 n ≥Kebutuhan Host Aktif+2.
+
 # VLSM
 
 ![](VLSM.png)
